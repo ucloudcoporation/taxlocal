@@ -18,6 +18,8 @@ Route::get('/', function () {
     return redirect('member/login');
 });
 
+Route::get('/deploy', [App\Http\Controllers\Dashboard\DashboardController::class, 'deploy']);
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
