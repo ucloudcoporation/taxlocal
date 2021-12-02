@@ -55,7 +55,7 @@
               </div>
               <button type="submit" class="btn btn-lg btn-primary">เข้าสู่ระบบ</button>
 
-              <a class="btn btn-lg btn-primary" href="{{ url('dashboard') }}">เข้า Dashboard</a>
+              <a class="btn btn-lg btn-primary" href="{{ url('dashboard') }}">เข้าสู่ Dashboard</a>
 
             </form>
           </div>
