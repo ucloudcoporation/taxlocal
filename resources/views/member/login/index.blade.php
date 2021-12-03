@@ -20,7 +20,7 @@
               ระบบงานจัดเก็บภาษีที่ดินและสิ่งปลูกสร้างตามระเบียบข้อบังคับของกฏกระทรวงมหาดไทย ปี พ.ศ. 2562
             </p>
             <div class="mb-5">
-              <a class="btn btn-lg btn-outline-white" href="javascript:void(0)">Read More</a>
+              <a class="btn btn-lg btn-outline-white" href="javascript:void(0)">Read More...</a>
             </div>
           </div>
         </div>
